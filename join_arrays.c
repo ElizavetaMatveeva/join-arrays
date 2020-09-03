@@ -1,5 +1,5 @@
-#define F 7
-#define S 5
+#define F 7  // Size of the first array
+#define S 5 // Size of the second array
 
 void print(int* m, int sz) // Print array
 {
